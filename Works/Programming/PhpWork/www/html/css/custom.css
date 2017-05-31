@@ -1,0 +1,18 @@
+body{
+  background-image: url(../image/linux.jpg);
+  background-position: 100px 100px;
+  background-attachment: fixed;
+}
+table, tr{
+  text-shadow: 0.1em 0.1em 0.3em black;
+  border-spacing: 0px;
+  margin: -10px 0px 0px 0px;
+  border: 2px outset blue;
+  background: grey;
+}
+th{
+  text-shadow: 0.1em 0.1em 0.3em black;
+  border-spacing: 0px;
+  margin: 0px 0px 0px 0px;
+  border: 2px outset blue;
+}
